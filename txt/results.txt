@@ -1,0 +1,28 @@
+MAk3 v1.03
+Player: Marek
+Game started: 11:48:37 06-12-2022
+Game finished: 11:56:58 06-12-2022
+Points: 1058
+Times reseted: 3
+
+MAk3 v1.03
+Player: Andrzej
+Game started: 11:57:22 06-12-2022
+Game finished: 11:57:34 06-12-2022
+Points: 526
+Times reseted: 5
+
+MAk3 v1.03
+Player: test
+Game started: 11:58:56 06-12-2022
+Game finished: 12:00:49 06-12-2022
+Points: 121
+Times reseted: 0
+
+MAk3 v1.03
+Player: ok
+Game started: 00:18:36 08-12-2022
+Game finished: 00:20:46 08-12-2022
+Points: 1349
+Times reseted: 0
+
